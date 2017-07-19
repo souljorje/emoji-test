@@ -1,2 +1,1 @@
-# emoji-test
-:fire:
+emoji-test :fire:
