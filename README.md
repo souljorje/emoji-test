@@ -1,1 +1,1 @@
-emoji-test :fire:
+emoji-test :fire: :green_heart: :penguin:
