@@ -1,1 +1,2 @@
 # emoji-test
+:fire:
